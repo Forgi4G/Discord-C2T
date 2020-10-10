@@ -2,7 +2,7 @@
 ## Discord Cache 2 Trash ——— Discord Cache To Trash
 A short and open-source application that removes the Discord cache to the trash without conflicting with the number of files.
 <p align="center"> 
-<img src="https://github.com/Forgi4G/Discord-C2T/blob/main/assets/Discord-C2T-Icon.png" alt="Discord C2T Icon" />
+   <img src="https://github.com/Forgi4G/Discord-C2T/blob/main/assets/Discord-C2T-Icon.png" alt="Discord C2T Icon" />
 </p>
 
 ## Disclaimer(s)
